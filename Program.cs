@@ -17,17 +17,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
 app.MapPessoaRouts();
 
-
-app.MapGet("/pessoa", handler: () => Pessoas);
-
-app.MapGet("/pessoa/{nome}", handler: (strin nome) => Pessoas.Find
-        
-        app.MapPost("/pessoa",
+app.Run();
 
 
-app.Run());
-
-
-}

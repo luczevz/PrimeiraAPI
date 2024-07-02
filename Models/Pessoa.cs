@@ -2,8 +2,8 @@ namespace PrimeiraAPI.Models;
 
 public class Pessoa
 {
-    public Guid Id{ get, set; }
-    public string Nome { get, set; }
+    public Guid Id { get; set; }
+    public string Nome { get; set; }
 
     public Pessoa(Guid id, string nome)
 
