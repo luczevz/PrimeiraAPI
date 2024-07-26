@@ -12,27 +12,19 @@
     <list default="true" id="732d39d5-9c0c-4f2c-aa57-e809190d821e" name="Alterações" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PrimeiraAPI.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PrimeiraAPI.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Routs/PessoasRouts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Routs/PessoasRouts.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Primeira.51A88630.Up2Date" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/PrimeiraAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/PrimeiraAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="autoShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,6 +40,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.PrimeiraAPI: http.executor&quot;: &quot;Debug&quot;,
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Perfil de Configurações de Inicialização do .NET.PrimeiraAPI: IIS Express.executor&quot;: &quot;Debug&quot;,
     &quot;Perfil de Configurações de Inicialização do .NET.PrimeiraAPI: http.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -68,7 +62,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Perfil de Configurações de Inicialização do .NET.PrimeiraAPI: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.PrimeiraAPI: http">
     <configuration name="PrimeiraAPI: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/PrimeiraAPI.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -125,7 +119,14 @@
       <updated>1719946904901</updated>
       <workItem from="1719946906304" duration="3550000" />
       <workItem from="1719954200389" duration="597000" />
-      <workItem from="1720125313978" duration="1752000" />
+      <workItem from="1720125313978" duration="2007000" />
+      <workItem from="1720144305917" duration="354000" />
+      <workItem from="1720145192899" duration="3329000" />
+      <workItem from="1721205037701" duration="5290000" />
+      <workItem from="1721913113826" duration="6727000" />
+      <workItem from="1721923687606" duration="3000" />
+      <workItem from="1721924125391" duration="6653000" />
+      <workItem from="1721941351828" duration="3578000" />
     </task>
     <servers />
   </component>

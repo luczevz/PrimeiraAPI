@@ -19,7 +19,7 @@ public static class PessoasRouts
         app.MapGet("/pessoas", handler: () => Pessoas);
 
         app.MapGet("/pessoas/{nome}",
-            handler: (string nome) => Pessoas.Find(x => x.Nome == nome));
+            handler: (string nome) => Pessoas.Find(x => x.Nome.StartsWith(nome)));
 
         app.MapPost("pessoas",
             handler: (HttpContext request, Pessoa pessoa) =>
