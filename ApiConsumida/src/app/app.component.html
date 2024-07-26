@@ -1,0 +1,57 @@
+
+
+
+<!-- ******* RESOLUÇÃO *********
+ Buscar Pessoas-->
+<h1> Buscar Pessoas </h1>
+<div>
+  <input type="search" [(ngModel)]="valorBuscaPessoa"
+  (keyup.enter)="obterPessoaEspecifica()" >
+</div>
+
+
+<!-- 
+******* RESOLUÇÃO *********
+pessoaEncontrada$ | async  
+Deve se atentar ao objeto pois esta trazendo ele todo 
+o correto é buscar pelo nome de cada pessoa {{ (pessoaEncontrada$ | async)?.nome }}
+
+-->
+<p> Pessoa Encontrada: {{ (pessoaEncontrada$ | async)?.nome }} </p>
+
+<h3>Adicionar Pessoa</h3>
+
+<div>
+
+  <input type="text" [(ngModel)]="nomeAdicionar"
+  (keyup.enter)="adicionarPessoa()">
+</div>
+<!-- Listar Pessoas-->
+<h1> Listar Pessoas</h1>
+
+<!--******* RESOLUÇÃO *********
+ ESTE NgFor apresenta 3 objetos onde deve ser 
+ separado e apresentar em um P para cada um -->
+
+<span *ngFor="let pessoa of pessoas$ | async"
+(click)="obterDadosAtualizar(pessoa)">
+  
+  {{ pessoa.nome }},
+</span>
+
+<h3>Atualizar Nome</h3>
+<input type="text"
+[(ngModel)]="nomeAtualizar"
+(keyup.enter)="atualizarNome()">
+
+
+
+
+<!-- //  Parâmetros do JSON foram aplicados como esperado, vamos utilizar o ngFor 
+
+// FOI APRESENTADO O ARRAY TODO
+
+<p>
+  {{ pessoas$ | async | json}}
+</p>
+-->
