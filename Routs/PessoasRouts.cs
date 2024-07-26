@@ -21,15 +21,10 @@ public static class PessoasRouts
         app.MapGet("/pessoas/{nome}",
             handler: (string nome) => Pessoas.Find(x => x.Nome.StartsWith(nome)));
 
-        app.MapPost("pessoas",
+        app.MapPost("/pessoas",
             handler: (HttpContext request, Pessoa pessoa) =>
             {
-
-               /* if (pessoa.Nome != "Lucas")
-                return Results.BadRequest(error: new {message = "erro não é Lucas"});*/
-
-               var nome = request.Request.Query["name"];
-
+                pessoa.Id = Guid.NewGuid();
                 Pessoas.Add(pessoa);
                 return Results.Ok(pessoa);
             });

@@ -11,12 +11,82 @@
   <component name="ChangeListManager">
     <list default="true" id="732d39d5-9c0c-4f2c-aa57-e809190d821e" name="Alterações" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PrimeiraAPI.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PrimeiraAPI.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiConsumida/ApiAplication/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ApiConsumida/ApiAplication/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApiConsumida/ApiAplication/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ApiConsumida/ApiAplication/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.config.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/app/models/pessoa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/main.server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumir-APi-Angular/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/app/models/pessoa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneAPI/ConsumirAPI/tsconfig.spec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Routs/PessoasRouts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Routs/PessoasRouts.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/Consumir-APi-Angular/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/Consumir-APi-Angular/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/Consumir-APi-Angular/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/Consumir-APi-Angular/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/Consumir-APi-Angular/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/Consumir-APi-Angular/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/OneAPI/ConsumirAPI/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/OneAPI/ConsumirAPI/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/OneAPI/ConsumirAPI/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/OneAPI/ConsumirAPI/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/OneAPI/ConsumirAPI/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/OneAPI/ConsumirAPI/tsconfig.spec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/PrimeiraAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/PrimeiraAPI.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/PrimeiraAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/PrimeiraAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/PrimeiraAPI.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +98,29 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/b8139c5ee58f1708b0e3368a1b241400edd6cbc4/src/Http/Http.Extensions/src/HttpResponseJsonExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/b8139c5ee58f1708b0e3368a1b241400edd6cbc4/src/Http/Http.Extensions/src/RequestDelegateFactory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/b8139c5ee58f1708b0e3368a1b241400edd6cbc4/src/Http/Http.Results/src/Results.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/b8139c5ee58f1708b0e3368a1b241400edd6cbc4/src/Middleware/Diagnostics/src/DeveloperExceptionPage/DeveloperExceptionPageMiddlewareImpl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/aspnetcore/b8139c5ee58f1708b0e3368a1b241400edd6cbc4/src/Servers/Kestrel/Core/src/Internal/Http/HttpProtocol.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/3b8b000a0e115700b18265d8ec8c6307056dc94d/src/libraries/System.Text.Json/src/System/Text/Json/Serialization/Converters/Object/ObjectDefaultConverter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/3b8b000a0e115700b18265d8ec8c6307056dc94d/src/libraries/System.Text.Json/src/System/Text/Json/Serialization/JsonConverterOfT.WriteCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/3b8b000a0e115700b18265d8ec8c6307056dc94d/src/libraries/System.Text.Json/src/System/Text/Json/Serialization/JsonConverterOfT.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/3b8b000a0e115700b18265d8ec8c6307056dc94d/src/libraries/System.Text.Json/src/System/Text/Json/Serialization/Metadata/JsonTypeInfoOfT.WriteHelpers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/3684e888fd93508450e2f4b0d7d38bee648cba98882592491596fc79375185f/SwaggerMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/781ebca67bd71532948352c2c24f8db410449e3c21f7191a17bf21348cd4fed4/SwaggerUIMiddleware.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -126,7 +219,7 @@
       <workItem from="1721913113826" duration="6727000" />
       <workItem from="1721923687606" duration="3000" />
       <workItem from="1721924125391" duration="6653000" />
-      <workItem from="1721941351828" duration="3578000" />
+      <workItem from="1721941351828" duration="10176000" />
     </task>
     <servers />
   </component>
